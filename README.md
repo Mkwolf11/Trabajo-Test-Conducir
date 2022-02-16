@@ -11,4 +11,8 @@ Las clases Inicio y Examen son las clases que contienen interfaz grafica.
 En la clase Inicio Establezco la cantidad de preguntas que quiero y la dificultad de estas.
 Posteriormente se rellenaran los arrayList Especificos a la dificultad escogida y se trabaja con ellos en la clase examen la cual va sacando 
 objetos del arraylist de forma aleatoria y los va colocando, en sus especificas posiciones.
-No pude establecer que las respuestas se pusiesen de forma aleatoria.
+No pude establecer que las respuestas se pusiesen de forma aleatoria, por lo que todas las respuestas correctas se encuentran en la primera posicion.
+
+Los botones de la clase examen, el de salir te saca a la pantalla de inicio en el momento en el que tu le pulsas y te dice las preguntas acertadas.
+El boton de continuar en cambio de va pasando de preguntas hasta que llega el limite que has establecido al principio, entonces te dice las
+preguntas que has acertado y te saca de la aplicacion
